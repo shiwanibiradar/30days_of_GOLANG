@@ -1,2 +1,2 @@
 # 30days_of_GOLANG
-Program in Golang
+Basic Program in Golang
